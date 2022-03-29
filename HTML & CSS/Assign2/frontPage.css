@@ -1,0 +1,324 @@
+
+.logo{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    opacity: 1;
+    color: red;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 81px;
+    left: 710px;
+    width: 147px;
+    height: 147px;
+    border: 1px solid #707070;
+}
+.login{
+    position: absolute;
+    top: 25px;
+    color: white;
+    left: 1215px;
+    width: 50px;
+    height: 23px;
+    opacity: 1px;
+}
+.account{
+    position: absolute;
+    top: 20px;
+    color: white;
+    left: 1280px;
+    width: 181px;
+    height: 40px;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    padding-left: 25px;
+    padding-top: 5px;
+
+}
+.quote{
+    position: absolute;
+    left: 452px;
+    top: 230px;
+    font-size: 40px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: white;
+}
+.location{
+    position: absolute;
+    top: 160px;
+    left: 225px;
+    width: 245px;
+    height: 50px;
+    opacity: 1;
+    color: #636F88;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.restaurants{
+    position: absolute;
+    top: 320px;
+    left: 710px;
+    width: 445px;
+    height: 50px;
+    font-family: Poppins;
+    padding-left: 30px;
+    opacity: 1;
+}
+.search{
+    position: absolute;
+    top: 336px;
+    left: 700px;
+    font-size: medium;
+    color: #74819E;
+    padding-left: 30px;
+    opacity: 2;
+
+}
+.header{
+    position: absolute;
+    top: 480px;
+    left: 92px;
+    width: 439px;
+    height: 43px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #192F60;
+    opacity: 1;
+}
+.headerMin{
+    position: absolute;
+    top: 538px;
+    left: 92px;
+    width: 480px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 20px;
+    color: #8C96AB;
+    opacity: 1;
+
+}
+.BreakFast{
+    height: 150px;
+    width: 415px;
+    background-color: white;
+    margin-top: 155px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 95px;
+    box-shadow: 0 3px 6px gray;
+    float: left;
+}
+.breakFastPic{
+    padding-top: 10px;
+    width: 200px;
+    height: 140px;
+}
+.breakFast{
+    position: absolute;
+    top: 625px;
+    left: 335px;
+    width: 88px;
+    height: 25px;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: #192F60;
+}
+.breakFastDisc{
+    position: absolute;
+    top: 650px;
+    left: 335px;
+    width: 150px;
+    height: 25px;
+    font-size: 15px;
+    font-family: Poppins;
+    color: #8C96AB;
+}
+.Lunch{
+    height: 150px;
+    width: 415px;
+    background-color: white;
+    margin-top: 155px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    box-shadow: 0 3px 6px gray;
+    float: left;
+}
+.lunchPic{
+    padding-top: 10px;
+    width: 200px;
+    height: 140px;
+}
+.lunch{
+    position: absolute;
+    top: 625px;
+    left: 810px;
+    width: 88px;
+    height: 25px;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: #192F60;
+}
+.lunchDisc{
+    position: absolute;
+    top: 650px;
+    left: 810px;
+    width: 150px;
+    height: 25px;
+    font-size: 15px;
+    font-family: Poppins;
+    color: #8C96AB;
+}
+.Snacks{
+    height: 150px;
+    width: 415px;
+    background-color: white;
+    margin-top: 155px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 5px;
+    box-shadow: 0 3px 6px gray;
+    float: left;
+}
+.snacksPic{
+    padding-top: 10px;
+    width: 200px;
+    height: 140px;
+}
+.snacks{
+    position: absolute;
+    top: 625px;
+    left: 1280px;
+    width: 88px;
+    height: 25px;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: #192F60;
+}
+.snacksDisc{
+    position: absolute;
+    top: 650px;
+    left: 1280px;
+    width: 150px;
+    height: 25px;
+    font-size: 15px;
+    font-family: Poppins;
+    color: #8C96AB;
+}
+.Dinner{
+    height: 150px;
+    width: 415px;
+    background-color: white;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 95px;
+    box-shadow: 0 3px 6px gray;
+    float: left;
+}
+.dinnerPic{
+    padding-top: 10px;
+    width: 200px;
+    height: 140px;
+}
+.dinner{
+    position: absolute;
+    top: 830px;
+    left: 335px;
+    width: 88px;
+    height: 25px;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: #192F60;
+}
+.dinnerDisc{
+    position: absolute;
+    top: 855px;
+    left: 335px;
+    width: 150px;
+    height: 25px;
+    font-size: 15px;
+    font-family: Poppins;
+    color: #8C96AB;
+}
+.Drinks{
+    height: 150px;
+    width: 415px;
+    background-color: white;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    box-shadow: 0 3px 6px gray;
+    float: left;
+}
+.drinksPic{
+    padding-top: 10px;
+    width: 200px;
+    height: 140px;
+}
+.drinks{
+    position: absolute;
+    top: 830px;
+    left: 810px;
+    width: 88px;
+    height: 25px;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: #192F60;
+}
+.drinksDisc{
+    position: absolute;
+    top: 855px;
+    left: 810px;
+    width: 150px;
+    height: 25px;
+    font-size: 15px;
+    font-family: Poppins;
+    color: #8C96AB;
+}
+.NightLife{
+    height: 150px;
+    width: 415px;
+    background-color: white;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    box-shadow: 0 3px 6px gray;
+    float: left;
+}
+.nightLifePic{
+    padding-top: 10px;
+    width: 200px;
+    height: 140px;
+}
+.nightLife{
+    position: absolute;
+    top: 830px;
+    left: 1280px;
+    width: 88px;
+    height: 25px;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: #192F60;
+}
+.nightLifeDisc{
+    position: absolute;
+    top: 857px;
+    left: 1280px;
+    width: 150px;
+    height: 25px;
+    font-size: 15px;
+    font-family: Poppins;
+    color: #8C96AB;
+}
